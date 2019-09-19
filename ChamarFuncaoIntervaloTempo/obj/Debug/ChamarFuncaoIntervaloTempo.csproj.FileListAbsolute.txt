@@ -1,0 +1,9 @@
+C:\Users\kodom\source\repos\ChamarFuncaoIntervaloTempo\ChamarFuncaoIntervaloTempo\bin\Debug\ChamarFuncaoIntervaloTempo.exe.config
+C:\Users\kodom\source\repos\ChamarFuncaoIntervaloTempo\ChamarFuncaoIntervaloTempo\bin\Debug\ChamarFuncaoIntervaloTempo.exe
+C:\Users\kodom\source\repos\ChamarFuncaoIntervaloTempo\ChamarFuncaoIntervaloTempo\bin\Debug\ChamarFuncaoIntervaloTempo.pdb
+C:\Users\kodom\source\repos\ChamarFuncaoIntervaloTempo\ChamarFuncaoIntervaloTempo\obj\Debug\ChamarFuncaoIntervaloTempo.Form1.resources
+C:\Users\kodom\source\repos\ChamarFuncaoIntervaloTempo\ChamarFuncaoIntervaloTempo\obj\Debug\ChamarFuncaoIntervaloTempo.Properties.Resources.resources
+C:\Users\kodom\source\repos\ChamarFuncaoIntervaloTempo\ChamarFuncaoIntervaloTempo\obj\Debug\ChamarFuncaoIntervaloTempo.csproj.GenerateResource.cache
+C:\Users\kodom\source\repos\ChamarFuncaoIntervaloTempo\ChamarFuncaoIntervaloTempo\obj\Debug\ChamarFuncaoIntervaloTempo.csproj.CoreCompileInputs.cache
+C:\Users\kodom\source\repos\ChamarFuncaoIntervaloTempo\ChamarFuncaoIntervaloTempo\obj\Debug\ChamarFuncaoIntervaloTempo.exe
+C:\Users\kodom\source\repos\ChamarFuncaoIntervaloTempo\ChamarFuncaoIntervaloTempo\obj\Debug\ChamarFuncaoIntervaloTempo.pdb
